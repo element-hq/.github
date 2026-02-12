@@ -17,7 +17,7 @@
 - 🔍 **Open Source** for transparency, sovereignty and security
 - 🕸️ **Decentralisation** ensures robust and resilient communications
 - 🤝 **Federation** to engage with others, on your terms
-- 💼 **Professional, enterprise-ready communication and collaboration** for public sector and workplace environments
+- 💼 **Professional, enterprise-grade communication and collaboration** for public sector and workplace environments
   - L3 Support
   - Long-Term Support (LTS)
   - Support for air-gapped environments
@@ -41,9 +41,9 @@ Read more about the [relationship between Element and Matrix](https://element.io
 We want Element to be for everyone, and we enable everyone to contribute through [open source](https://github.com/element-hq). We embrace diversity to create a better, stronger product for our customers, the community, and all those who recognise the importance of privacy-centric communications. 
 
 ### 🌱 Interested in joining?
-Our products are for everyone and we know we cannot succeed without a diverse team. Our hiring process is designed to give candidates the best possible chance to show us what they can do. Please feel free to [get in touch](https://element.io/en/careers)
+Our products are for everyone and we know we cannot succeed without a diverse team. Our hiring process is designed to give candidates the best possible chance to show us what they can do. Please feel free to [get in touch](https://element.io/en/careers).
 
 ### 🚀 Get Element
-- For personal use, you can simply [download the Element app](https://try.element.io/get-started) and use it on a server of your choice (like the free Matrix.org public server).
+- For personal use, you can simply [download the Element app](https://element.io/en/download) and use it on a server of your choice (like the free Matrix.org public server).
 - For self-hosted casual use on a small scale (easily supporting up to 100 users), [Element Server Suite Community (ESS Community)](https://element.io/en/server-suite/community) is our free-to-use, self-hosted distribution.  
 - For government, public sector or other professional use, we provide [Element Server Suite Pro (ESS Pro)](https://element.io/en/server-suite/pro).
