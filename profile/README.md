@@ -17,6 +17,12 @@
 - 🔍 **Open Source** for transparency, sovereignty and security
 - 🕸️ **Decentralisation** ensures robust and resilient communications
 - 🤝 **Federation** to engage with others, on your terms
+- 💼 **Professional, enterprise-ready communication and collaboration** for public sector and workplace environments
+  - L3 Support
+  - Long-Term Support (LTS)
+  - Support for air-gapped environments
+  - Advanced Security Advisory
+  - Compliance with the Cyber Resilience Act (CRA)
 - 🔗 All based on **Matrix** for interoperability and standardisation
 
 Do you want to learn more about how you can use Element to communicate securely via Matrix for personal use as well as for the professional workplace? [Learn more about Element](https://element.io/).
